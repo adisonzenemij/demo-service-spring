@@ -8,8 +8,8 @@
     <version>4.1.1</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.engineering</groupId>
-  <artifactId>engineering</artifactId>
+  <groupId>com.engcode</groupId>
+  <artifactId>b9c81c152e3d</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>b9c81c152e3d</name>
