@@ -14,7 +14,7 @@
   <packaging>pom</packaging>
   <name>b9c81c152e3d</name>
   <description>Engineering</description>
-  <url/>
+  <!-- <url/>
   <licenses>
     <license/>
   </licenses>
@@ -26,9 +26,10 @@
     <developerConnection/>
     <tag/>
     <url/>
-  </scm>
+  </scm> -->
   <modules>
     <module>server</module>
+    <module>discovery</module>
   </modules>
   <properties>
     <java.version>25</java.version>
