@@ -1,10 +1,10 @@
-package com.engcode.server;
+package com.engcode.config;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServerApplicationTests {
+class ConfigApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -28,7 +28,7 @@
     <url/>
   </scm> -->
   <modules>
-    <module>server</module>
+    <module>config</module>
     <module>discovery</module>
   </modules>
   <properties>
